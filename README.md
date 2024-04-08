@@ -1,2 +1,3 @@
-# Chatbot_01
-First Chatbot with OpenAI and Streamlit
+# Chatbot_draft
+
+Chatbot with OpenAI GPT 4 and Streamlit
